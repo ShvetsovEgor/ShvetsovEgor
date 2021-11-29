@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShvetsovEgor
 - 👀 I’m interested in programming, dancing
-- 🌱 I’m currently learning in PTL 1
+- 🌱 I’m currently learning in Physical technical lyceum 1
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://vk.com/shvetsovegor
 
