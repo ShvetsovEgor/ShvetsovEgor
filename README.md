@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShvetsovEgor
-- 👀 I’m interested in programming, dancing
-- 🌱 I’m currently learning in Physical technical lyceum 1
+- 👀 I’m interested in AI, ML, NLP, Python, Databases
+- 🌱 I’m currently learning in Innopolis University
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://vk.com/shvetsovegor
+- 📫 How to reach t.me/Egor_Shvetsov
 
 <!---
 ShvetsovEgor/ShvetsovEgor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
